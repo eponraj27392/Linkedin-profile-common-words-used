@@ -62,7 +62,7 @@ python -m app -- url https://www.linkedin.com/in/satyanadella/ --period all --to
 **Dash App plot Results**
 
 ```sh
-Consider this as a starting point for app/dashboard dev, I plotted, global languages edit occur in Wikipedia every minute.
+Consider this as a starting point for app/dashboard dev, many scrapped information can be analysed in detail which give us more information about the profile/url.
 ``` 
 
 ![DynamicPlottingImage](https://github.com/eponraj27392/Linkedin-profile-common-words-used/blob/master/final_gif.gif)
