@@ -21,6 +21,9 @@ username
 password
 ```
 
+Download the driver to be used for scrapping. In this repo I used Chrome driver.
+for download use [Chrome_Driver](https://chromedriver.chromium.org/downloads)
+
 ## Preprocessing
 
 
